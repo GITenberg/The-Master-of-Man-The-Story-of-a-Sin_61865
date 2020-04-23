@@ -1,0 +1,33 @@
+_repo: The-Master-of-Man-The-Story-of-a-Sin_61865
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Caine, Hall, Sir
+    aliases:
+    - Caine, Thomas Henry Hall, Sir
+    - Caine, T. Hall, Sir
+    - Caine, Sir Hall
+    birthdate: 1853
+    deathdate: 1931
+    gutenberg_agent_id: '591'
+    url: http://www.gutenberg.org/2009/agents/591
+    wikipedia: https://en.wikipedia.org/wiki/Hall_Caine
+description: ''
+gutenberg_issued: '2020-04-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61865'
+  lccn: '21015826'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Isle of Man -- Fiction'
+- !lcsh 'Redemption -- Fiction'
+- !lcsh 'Legal stories'
+- !lcsh 'Infanticide -- Fiction'
+- GITenberg
+title: 'The Master of Man: The Story of a Sin'
+url: http://www.gutenberg.org/ebooks/61865
